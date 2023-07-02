@@ -1,2 +1,2 @@
-# gen-ai-engineering
-Generative AI engineering notebooks
+### Generative Artificial Intelligence Engineering Notebooks
+The Amazon SageMaker Studio notebook `SM-JumpStart-Decoding-Falcon40B-G5.ipynb` demos how to use generate text using different decoding strategies with Amazon SageMaker JumpStart SDK and Falcon 40B Large Language Model.
