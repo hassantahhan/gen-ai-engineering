@@ -1,6 +1,6 @@
 ### Generative Artificial Intelligence Engineering Notebooks
 
-To open a Jupyter Notebook using Amazon SageMaker, consider following the below steps:
+To open a Jupyter Notebook using Amazon SageMaker, consider the two steps below:
 1. [Create or Open an Amazon SageMaker Studio Notebook](https://docs.aws.amazon.com/sagemaker/latest/dg/notebooks-create-open.html).
 2. [Clone this Git Repository in Amazon SageMaker Studio](https://docs.aws.amazon.com/sagemaker/latest/dg/studio-tasks-git.html).
 
