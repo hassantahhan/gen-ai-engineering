@@ -17,5 +17,5 @@ To open a Jupyter Notebook using Amazon SageMaker, consider the two steps below:
 2. [Clone this Git Repository in Amazon SageMaker Studio](https://docs.aws.amazon.com/sagemaker/latest/dg/studio-tasks-git.html).
 
 The following training courses will help build your knowledge and practical skills with Amazon’s generative AI services:
-1. [Generative AI with Large Language Models](https://aws.amazon.com/blogs/aws/generative-ai-with-large-language-models-new-hands-on-course-by-deeplearning-ai-and-aws/).
-2. [Generative AI Foundations on AWS](https://aws.amazon.com/blogs/machine-learning/new-technical-deep-dive-course-generative-ai-foundations-on-aws/).
+1. [Coursera Course: Generative AI with Large Language Models](https://aws.amazon.com/blogs/aws/generative-ai-with-large-language-models-new-hands-on-course-by-deeplearning-ai-and-aws/).
+2. [Deep Dive: Generative AI Foundations on AWS](https://aws.amazon.com/blogs/machine-learning/new-technical-deep-dive-course-generative-ai-foundations-on-aws/).
